@@ -15,4 +15,6 @@ Download MarClimEX
 Contact Us
 ------------
 
-* I am Rodney Chan and together with Yang Feng at `Climate Data and Analysis Section`_ of Environment and Climate Change Canada are the current maintainer of MarClimEX. You can contact me at rodney.chan@canada.ca or Yang at yang.feng@canada.
+* I am Yang Feng at `Climate Data and Analysis Section`_ of Environment and Climate Change Canada are the current maintainer of MarClimEX. You can contact me at yang.feng@canada.
+
+.. _Climate Data and Analysis Section: https://github.com/ECCC-CDAS
